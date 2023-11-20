@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
 **Seo0min/Seo0min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
