@@ -1,5 +1,4 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo0min&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=soft)
 
 <!--
 **Seo0min/Seo0min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
