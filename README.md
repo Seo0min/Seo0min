@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="max-width: 100%; display: inline-block; width: 30px;" />, I'm Seoyeong</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
+</p>
+
 
 <!--
 **Seo0min/Seo0min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
