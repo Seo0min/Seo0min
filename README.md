@@ -25,11 +25,11 @@
   <br />
   <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-
   <br />
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=black"/>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-
+  <br />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
 </div>
 
