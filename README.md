@@ -3,10 +3,18 @@
 <div align="center">
 
   <div style="border-bottom: none;">
-    <h2>:pencil2: STUDYING</h2>
+    <h2>:pencil2: WHAT I HAVE LEARNED</h2>
   </div>
   <br />
+    <img src="https://img.shields.io/badge/Python-699dc9?style=flat-square&logo=Python&logoColor=black"/>
+    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <br />
+  <br />
 
+   <div style="border-bottom: none;">
+    <h2>:pencil2:  WHAT I CAN HANDLE </h2>
+  </div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -17,11 +25,15 @@
   <br />
   <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
   <br />
-  <br />
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
 </div>
+
+
 
 <!--
 **Seo0min/Seo0min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
